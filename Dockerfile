@@ -7,3 +7,4 @@ RUN yarn global add --prefix /usr/local "gitlab-time-tracker@$GTT_VERSION"
 VOLUME ["/root"]
 ENTRYPOINT ["gtt"]
 CMD ["--help"]
+tvf35tfvv
